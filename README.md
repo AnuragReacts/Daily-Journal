@@ -1,5 +1,5 @@
 # Daily-Journal
-A blog website that lets users to write their personal blogs as well as read others.
+A blog website that lets users to read and write blogs.
 
 ## Screenshot
 ![Screenshot (220)](https://user-images.githubusercontent.com/71843674/124984834-53583b80-e057-11eb-8a46-91c28c902113.png)
